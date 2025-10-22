@@ -74,7 +74,7 @@ int main() {
     } else {
         printf("Hash verification failed. Message has been altered.\n");
     }
-
+ 
     return 0;
 }
 ```
